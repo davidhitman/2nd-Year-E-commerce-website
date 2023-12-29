@@ -1,0 +1,7 @@
+/* css to style displayCustomer.php*/
+table{
+    top:120px;
+    left:50px;
+    position: relative;
+    width: 1000px;
+}

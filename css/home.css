@@ -1,0 +1,150 @@
+/* css styling the home.html page with the class names displayed below*/
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:url("../images/shoes.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.navigation{
+    left:800px;
+    top:-10px;
+    position: relative;
+}
+.link{
+    padding:20px;
+    color:white;
+    font-size: 25px;
+    text-decoration: none;
+}
+.link:hover{
+    color: grey;
+}
+i{
+    color: white; 
+    left:20px; 
+    top:10px; 
+    position: absolute; 
+}
+.letter-H{
+    color:white; 
+    top:-40px; 
+    left:90px; 
+    font-size: 50px; 
+    position: absolute;
+}
+.letter-D{
+    color:white; 
+    top:-40px; 
+    left:110px; 
+    font-size: 50px; 
+    position: absolute;
+}
+.search-bar{
+    left:300px;
+    width:450px;
+    height:33px;
+    top:20px;
+    position: relative;
+    border-radius: 30px;
+    border:none;
+    outline: none;
+}
+.search-button{
+    left:166px;
+    top:20px;
+    height:35px;
+    width:130px;
+    border:none;
+    border-radius:30px;
+    position: relative;
+    background-color: white;
+}
+.search-button:hover{
+    background-color: grey;
+    color:white;
+}
+.shop-div{
+    background-color: rgba(0, 0, 0, 0.7);
+    top:150px;
+    left:250px;
+    position: absolute;
+    width:600px;
+    height: 300px;
+}
+.first-P{
+    color: white;
+    font-size:40px;
+    left:150px;
+    position: relative;
+}
+.second-P{
+    color:white;
+    top:-30px;
+    left:200px;
+    position: relative;
+
+}
+.buy-button{
+    left:230px;
+    position: relative;
+    background-color: orangered;
+    border: none;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+}
+.Nike-img{
+    top:450px;
+    left:200px;
+    position: relative;
+    height: 100px;
+    width: 150px;
+}
+.addidas-img{
+    top:450px;
+    left:300px;
+    position: relative;
+    height: 100px;
+    width: 150px;
+}
+.puma-img{
+    top:450px;
+    left:400px;
+    position: relative;
+    height: 100px;
+    width: 150px;
+}
+.footer{
+    background-color: black;
+    height: 120px;
+    width: 100%;
+    top:700px;
+    position: absolute;
+}
+.footer1{
+	color: white;
+    top:-10px;
+    position: relative;
+    left:50px;
+    font-size: 25px;
+}
+.footer2{
+    color: white;
+    left:50px;
+    top:-25px;
+    position: relative;
+}
+.footer3{
+    color: white;
+    left:50px;
+    top:-30px;
+    position: relative;
+}
+.footer4{
+    color: white;
+    left:820px;
+    top:-140px;
+    position: relative;
+    font-size: 45px;
+}

@@ -1,0 +1,109 @@
+/* css styling the login.html page with the class names displayed below*/
+p{
+	position: absolute;
+    left: 150px;
+    top: 600px;
+    color: rgb(0, 0, 0);
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.whiteDiv{
+	background-color: #eee; 
+	height: 730px;
+	width: 50%;
+}
+.welcomeDiv{
+	background-color: #FF416C;
+	height: 730px;
+	width: 50%;
+	top:0px;
+	position: absolute;
+	left: 50%;
+}
+#greetings{
+	color: white;
+	font-size: 70px;
+	top:240px;
+	left:120px;
+	position: relative;
+}
+.greetingsPara{
+	color: white;
+	font-size: 30px;
+	top:210px;
+	left: 150px;
+	position: relative;
+}
+nav{
+	top:60px;
+	position: relative;
+}
+.nav{
+	text-decoration: none;
+	font-size: 25px;
+	color:white;
+	padding: 60px;
+}
+.nav:hover{
+	color: gray;
+}
+.createAcc{
+	top:100px;
+	left:100px;
+	position: absolute;
+	font-size: 50px;
+}
+form{
+	top:180px;
+	left:100px;
+	position: relative;
+}
+.input{
+	padding-top: 30px;
+	border-top:none;
+	background-color: #eee;
+	border-left:none;
+	border-right:none;
+	border-bottom-width: 1px;
+	width: 300px;
+	font-size: 15px;
+	outline: none;
+	border-bottom-color:black;
+}
+.nav1{
+	color:black; 
+	left:550px; 
+	text-decoration: none; 
+	font-size: 25px; 
+	position: relative;
+}
+.nav1:hover{
+	color: gray;
+}
+.loginButton{
+	left: -150px;
+	top:70px;
+	position: relative;
+	width:200px;
+	height: 40px;
+	font-size: 20px;
+	background-color: white;
+	border-color: #000000;
+	border-radius: 20px;
+}
+.loginButton:hover{
+	background-color: #FF416C;
+	border: none;
+}
+.signUp{
+	left:80px;
+	top:420px;
+	position: absolute;
+}
+.checkbox{
+	top:25px;
+	position: relative;
+}
